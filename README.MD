@@ -11,12 +11,12 @@ I'm a self-taught developer and teacher, passionate about creating educational t
 ### 🛠️ Core-Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cs,js,cpp,latex,sqlite,ocaml" />
+    <img src="https://skillicons.dev/icons?i=python,java,cs,js,latex,sqlite,ocaml" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,maven,dotnet,html,qt" />
+    <img src="https://skillicons.dev/icons?i=django,maven,dotnet,html" />
   </a>
 </p>
 <p align="center">
@@ -60,6 +60,10 @@ Find out more about my projects on my   <a href="https://valentin-herrmann.com" 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ValentinHerrmann&theme=dracula&hide_border=false&mode=weekly" alt="GitHub Streak" />
   </a>
 </p>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ValentinHerrmann)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinHerrmann)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
