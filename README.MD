@@ -29,15 +29,15 @@ I'm a self-taught developer and teacher, passionate about creating educational t
 
 ### 🚀 Featured Projects
 
-<img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python"/> <img src="https://skillicons.dev/icons?i=django" width="20" height="20" alt="Django"/> <img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript"/> <img src="https://skillicons.dev/icons?i=html" width="20" height="20" alt="HTML"/> **[SQLution](https://github.com/ValentinHerrmann/SQLution)**: An online SQLite tool written in Python-Django for student projects.
+<img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python"/> <img src="https://skillicons.dev/icons?i=django" width="20" height="20" alt="Django"/> <img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript"/> <img src="https://skillicons.dev/icons?i=html" width="20" height="20" alt="HTML"/> **[SQLution](https://valentin-herrmann.com/sqlution/)**: An online SQLite tool written in Python-Django for student projects.
 
-<img src="https://skillicons.dev/icons?i=java" width="20" height="20" alt="Java"/> <img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript"/> **[BlueJBlocklyExtension](https://github.com/ValentinHerrmann/BlueJBlocklyExtension)**: Integrates Blockly with Java in BlueJ for educational purposes.
+<img src="https://skillicons.dev/icons?i=java" width="20" height="20" alt="Java"/> <img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript"/> **[BlueJBlocklyExtension](https://valentin-herrmann.com/BBE/)**: Integrates Blockly with Java in BlueJ for educational purposes.
 
-<img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript"/> <img src="https://skillicons.dev/icons?i=java" width="20" height="20" alt="Java"/> **[Blockly2Java](https://github.com/ValentinHerrmann/Blockly2Java)**: A JavaScript application that translates Blockly code to Java (used as translation engine in BlueJBlocklyExtension).
+<img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript"/> <img src="https://skillicons.dev/icons?i=java" width="20" height="20" alt="Java"/> **[Blockly2Java](https://valentin-herrmann.com/BBE/)**: A JavaScript application that translates Blockly code to Java (used as translation engine in BlueJBlocklyExtension).
 
-<img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python"/> **[sql_testing_tools](https://github.com/ValentinHerrmann/sql_testing_tools)**: A Python library to normalize and compare SQL queries.
+<img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python"/> **[sql_testing_tools](https://valentin-herrmann.com/SQL-testing/)**: A Python library to normalize and compare SQL queries.
 
-<img src="https://skillicons.dev/icons?i=latex" width="20" height="20" alt="LaTeX"/> **[FancyTeachingScripts](https://github.com/ValentinHerrmann/FancyTeachingScripts)**: A template for creating custom feature-rich teaching materials.
+<img src="https://skillicons.dev/icons?i=latex" width="20" height="20" alt="LaTeX"/> **[FancyTeachingScripts](https://valentin-herrmann.com/demo/)**: A template for creating custom feature-rich teaching materials.
 
 Find out more about my projects on my   <a href="https://valentin-herrmann.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Homepage-282a36?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Homepage" /></a>
 
