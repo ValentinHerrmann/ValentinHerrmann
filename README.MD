@@ -69,4 +69,5 @@ Find out more about my projects on my   <a href="https://valentin-herrmann.com" 
   <a href="https://github.com/ValentinHerrmann" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="ValentinHerrmann" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/valentin-herrmann-0017271a9/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="valentin-herrmann-0017271a9" height="30" width="30" /></a>
   <a href="https://instagram.com/lordmuetze" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="lordmuetze" height="30" width="30" /></a>
+  <a href="https://valentin-herrmann.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Homepage-282a36?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Homepage" /></a>
 </p>
