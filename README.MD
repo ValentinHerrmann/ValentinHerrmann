@@ -50,10 +50,10 @@ Find out more about my projects on my   <a href="https://valentin-herrmann.com" 
 
 <p align="center">
   <a href="https://github.com/ValentinHerrmann">
-    <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=ValentinHerrmann&theme=dracula&hide_border=false&mode=weekly" alt="GitHub Streak" />
+    <img height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=ValentinHerrmann&theme=dracula&hide_border=false&mode=weekly" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/ValentinHerrmann">
-    <img height="250" src="https://github-readme-stats.vercel.app/api?username=ValentinHerrmann&theme=dracula&hide_border=false&rank_icon=github" alt="GitHub Stats" />
+    <img height="220" src="https://github-readme-stats.vercel.app/api?username=ValentinHerrmann&theme=dracula&hide_border=false&rank_icon=github" alt="GitHub Stats" />
   </a>
 </p>
 
