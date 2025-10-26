@@ -61,9 +61,11 @@ Find out more about my projects on my   <a href="https://valentin-herrmann.com" 
   </a>
 </p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ValentinHerrmann)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ValentinHerrmann&theme=dracula&hide_border=false&rank_icon=github)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinHerrmann)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinHerrmann&theme=dracula&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinHerrmann&theme=dracula&hide_border=false&stats_format=bytes)
 
 ---
 
