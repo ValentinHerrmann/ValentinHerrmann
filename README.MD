@@ -9,17 +9,17 @@ I'm a self-taught developer and teacher, passionate about creating educational t
 ---
 
 ### 🛠️ Core-Skills
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,cs,js,cpp,latex,sqlite,ocaml" />
   </a>
 </p>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,maven,dotnet,html,qt" />
   </a>
 </p>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio" />
   </a>
@@ -50,11 +50,6 @@ Find out more about my projects on my   <a href="https://valentin-herrmann.com" 
 <p align="center">
   <a href="https://github.com/ValentinHerrmann">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ValentinHerrmann&theme=dracula&hide_border=true&area=true" alt="Contribution Activity Graph" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ValentinHerrmann">
-    <img src="https://github-profile-trophy.vercel.app/?username=ValentinHerrmann&theme=dracula&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 <p align="center">
