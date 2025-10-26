@@ -1,9 +1,10 @@
-### <img src="https://valentin-herrmann.com/favicon.png" width="80" height="80" alt="Me"/>  Hi there 👋, I'm Valentin 
+### <img href="https://valentin-herrmann.com" src="https://valentin-herrmann.com/favicon.png" width="100" height="100" alt="Me"/>       Hi there 👋, I'm Valentin 
 
 I'm a self-taught developer and teacher, passionate about creating educational technology software. My work focuses on building tools to enhance learning and teaching through modern development and open-source contributions.
 
 - 🎓 **Student** at **TUM (Technical University of Munich)**
 - 👨‍🏫 **Teacher** at **MTG (Maria-Theresia-Gymnasium München)**
+
 
 ---
 
