@@ -53,13 +53,13 @@ Find out more about my projects on my   <a href="https://valentin-herrmann.com" 
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=ValentinHerrmann&theme=dracula&hide_border=false&rank_icon=github" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/ValentinHerrmann">
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ValentinHerrmann&theme=dracula&hide_border=false&mode=weekly" alt="GitHub Streak" />
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ValentinHerrmann&theme=dracula&hide_border=false&mode=week" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ValentinHerrmann">
-    <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=ValentinHerrmann&theme=dracula&hide_border=false&area=true&mode=weekly" alt="Contribution Activity Graph" />
+    <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=ValentinHerrmann&theme=dracula&hide_border=false&area=true&mode=weekl" alt="Contribution Activity Graph" />
   </a>
   <a href="https://github.com/ValentinHerrmann">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinHerrmann&theme=dracula&hide_border=false&layout=donut" alt="Top Language" />
