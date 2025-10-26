@@ -40,6 +40,9 @@ I'm a self-taught developer and teacher, passionate about creating educational t
 <img src="https://skillicons.dev/icons?i=latex" width="20" height="20" alt="LaTeX"/> **[FancyTeachingScripts](https://github.com/ValentinHerrmann/FancyTeachingScripts)**: A template for creating custom feature-rich teaching materials.
 
 Find out more about my projects on my   <a href="https://valentin-herrmann.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Homepage-282a36?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Homepage" /></a>
+
+
+
 ---
 
 ### 📊 My GitHub Stats
