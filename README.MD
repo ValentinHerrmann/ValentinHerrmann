@@ -1,4 +1,4 @@
-### <img href="https://valentin-herrmann.com" src="https://valentin-herrmann.com/favicon.png" width="100" height="100" alt="Me"/>       Hi there 👋, I'm Valentin 
+### <a href="https://valentin-herrmann.com"><img src="https://valentin-herrmann.com/favicon.png" width="100" height="100" alt="Me"/></a>       Hi there 👋, I'm Valentin 
 
 I'm a self-taught developer and teacher, passionate about creating educational technology software. My work focuses on building tools to enhance learning and teaching through modern development and open-source contributions.
 
@@ -11,7 +11,7 @@ I'm a self-taught developer and teacher, passionate about creating educational t
 ### 🛠️ Core-Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cs,js,cpp,latex,sqlite" />
+    <img src="https://skillicons.dev/icons?i=python,java,cs,js,cpp,latex,sqlite,ocaml" />
   </a>
 </p>
 <p align="left">
@@ -39,6 +39,7 @@ I'm a self-taught developer and teacher, passionate about creating educational t
 
 <img src="https://skillicons.dev/icons?i=latex" width="20" height="20" alt="LaTeX"/> **[FancyTeachingScripts](https://github.com/ValentinHerrmann/FancyTeachingScripts)**: A template for creating custom feature-rich teaching materials.
 
+Find out more about my projects on my   <a href="https://valentin-herrmann.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Homepage-282a36?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Homepage" /></a>
 ---
 
 ### 📊 My GitHub Stats
@@ -66,7 +67,7 @@ I'm a self-taught developer and teacher, passionate about creating educational t
 
 ### 🔗 Connect with me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ValentinHerrmann" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="ValentinHerrmann" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/valentin-herrmann-0017271a9/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="valentin-herrmann-0017271a9" height="30" width="30" /></a>
   <a href="https://instagram.com/lordmuetze" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="lordmuetze" height="30" width="30" /></a>
