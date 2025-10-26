@@ -59,7 +59,7 @@ Find out more about my projects on my   <a href="https://valentin-herrmann.com" 
 
 <p align="center">
   <a href="https://github.com/ValentinHerrmann">
-    <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=ValentinHerrmann&theme=dracula&hide_border=false&area=true" alt="Contribution Activity Graph" />
+    <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=ValentinHerrmann&theme=dracula&hide_border=false&area=true&mode=weekly" alt="Contribution Activity Graph" />
   </a>
   <a href="https://github.com/ValentinHerrmann">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinHerrmann&theme=dracula&hide_border=false&layout=donut" alt="Top Language" />
