@@ -49,15 +49,15 @@ Find out more about my projects on my   <a href="https://valentin-herrmann.com" 
 
 <p align="center">
   <a href="https://github.com/ValentinHerrmann">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ValentinHerrmann&theme=dracula&hide_border=true&area=true" alt="Contribution Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ValentinHerrmann&theme=dracula&hide_border=false&area=true" alt="Contribution Activity Graph" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/ValentinHerrmann">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinHerrmann&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinHerrmann&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
   </a>
   <a href="https://github.com/ValentinHerrmann">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ValentinHerrmann&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ValentinHerrmann&theme=dracula&hide_border=false&mode=weekly" alt="GitHub Streak" />
   </a>
 </p>
 
