@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Valentin
+### Hi there 👋, I'm Valentin <img src="https://valentin-herrmann.com/favicon.png" width="40" height="40" alt="LaTeX"/>
 
 I'm a self-taught developer and teacher, passionate about creating educational technology software. My work focuses on building tools to enhance learning and teaching through modern development and open-source contributions.
 
@@ -15,7 +15,7 @@ I'm a self-taught developer and teacher, passionate about creating educational t
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,dotnet,html,qt" />
+    <img src="https://skillicons.dev/icons?i=django,maven,dotnet,html,qt" />
   </a>
 </p>
 <p align="left">
@@ -36,7 +36,7 @@ I'm a self-taught developer and teacher, passionate about creating educational t
 
 <img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python"/> **[sql_testing_tools](https://github.com/ValentinHerrmann/sql_testing_tools)**: A Python library to normalize and compare SQL queries.
 
-<img src="https://skillicons.dev/icons?i=html" width="20" height="20" alt="HTML"/> <img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript"/> <img src="https://skillicons.dev/icons?i=latex" width="20" height="20" alt="LaTeX"/> **[FancyTeachingScripts](https://github.com/ValentinHerrmann/FancyTeachingScripts)**: A template for creating custom feature-rich teaching materials.
+<img src="https://skillicons.dev/icons?i=latex" width="20" height="20" alt="LaTeX"/> **[FancyTeachingScripts](https://github.com/ValentinHerrmann/FancyTeachingScripts)**: A template for creating custom feature-rich teaching materials.
 
 ---
 
@@ -44,7 +44,20 @@ I'm a self-taught developer and teacher, passionate about creating educational t
 
 <p align="center">
   <a href="https://github.com/ValentinHerrmann">
-    <img src="https://metrics.lecoq.io/ValentinHerrmann?theme=dracula&base=header,activity,community,repositories,metadata&base.indepth=true&base.hireable=true&lines=true&lines.recent.days=14&lines.recent.load=400&lines.sections=repositories&lines.limit=4" alt="GitHub Metrics" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ValentinHerrmann&theme=dracula&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ValentinHerrmann">
+    <img src="https://github-profile-trophy.vercel.app/?username=ValentinHerrmann&theme=dracula&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ValentinHerrmann">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinHerrmann&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/ValentinHerrmann">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ValentinHerrmann&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
