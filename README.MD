@@ -1,4 +1,4 @@
-### <a href="https://valentin-herrmann.com"><img src="https://valentin-herrmann.com/favicon.png" width="100" height="100" alt="Me"/></a>       Hi there 👋, I'm Valentin 
+Hi there 👋, I'm Vale
 
 I'm a self-taught developer and teacher, passionate about creating educational technology software. My work focuses on building tools to enhance learning and teaching through modern development and open-source contributions.
 
