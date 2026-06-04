@@ -31,9 +31,9 @@ I'm a self-taught developer and teacher, passionate about creating educational t
 
 <img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python"/> <img src="https://skillicons.dev/icons?i=django" width="20" height="20" alt="Django"/> <img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript"/> <img src="https://skillicons.dev/icons?i=html" width="20" height="20" alt="HTML"/> **[SQLution](https://valentin-herrmann.com/sqlution/)**: An online SQLite tool written in Python-Django for student projects.
 
-<img src="https://skillicons.dev/icons?i=java" width="20" height="20" alt="Java"/> <img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript"/> **[BlueJBlocklyExtension](https://valentin-herrmann.com/BBE/)**: Integrates Blockly with Java in BlueJ for educational purposes.
+<img src="https://skillicons.dev/icons?i=java" width="20" height="20" alt="Java"/> <img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript"/> **[BlueJBlocklyExtension](https://valentin-herrmann.com/B2J/)**: Integrates Blockly with Java in BlueJ for educational purposes.
 
-<img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript"/> <img src="https://skillicons.dev/icons?i=java" width="20" height="20" alt="Java"/> **[Blockly2Java](https://valentin-herrmann.com/BBE/)**: A JavaScript application that translates Blockly code to Java (used as translation engine in BlueJBlocklyExtension).
+<img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript"/> <img src="https://skillicons.dev/icons?i=java" width="20" height="20" alt="Java"/> **[Blockly2Java](https://valentin-herrmann.com/B2J/)**: A JavaScript application that translates Blockly code to Java (used as translation engine in BlueJBlocklyExtension).
 
 <img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python"/> **[sql_testing_tools](https://valentin-herrmann.com/SQL-testing/)**: A Python library to normalize and compare SQL queries.
 
