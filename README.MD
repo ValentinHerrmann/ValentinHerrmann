@@ -76,3 +76,7 @@ Find out more about my projects on my   <a href="https://valentin-herrmann.com" 
   <a href="https://instagram.com/lordmuetze" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="lordmuetze" height="30" width="30" /></a>
   <a href="https://valentin-herrmann.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Homepage-282a36?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Homepage" /></a>
 </p>
+
+---
+
+![Metrics](https://metrics.lecoq.io/ValentinHerrmann?template=classic&repositories.forks=true&isocalendar=1&languages=1&lines=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=css&languages.skipped=NewOnlineIDE_B2J%2C%20Online-IDE_B2J%2C%20valentinherrmann.github.io&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=30&languages.analysis.timeout.repositories=30&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=10&lines.delay=0&introduction=false&introduction.title=true&config.timezone=Europe%2FBerlin&config.display=large)
